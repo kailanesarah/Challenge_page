@@ -7,9 +7,8 @@ A página criada possui o layout inspirado em um blog de notícias e entrevistas
 
 
 <h1>Estrutura do Projeto</h1>
-<h2>1. home.html</h2>
-
------->Arquivo principal contendo a estrutura HTML da página.
+<h3>1. home.html</h3>
+<li>Arquivo principal contendo a estrutura HTML da página. ></li
 
 **2. css/**
 
