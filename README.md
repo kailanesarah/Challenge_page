@@ -5,6 +5,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico para o processo 
 O objetivo era construir uma página de email com foco em responsividade e design, utilizando apenas HTML e CSS. 
 A página criada possui o layout inspirado em um blog de notícias e entrevistas, com organização clara e acessível.
 
+
 **Estrutura do Projeto**
 **1. home.html**
 
@@ -29,12 +30,14 @@ A página criada possui o layout inspirado em um blog de notícias e entrevistas
 
 ------> Documento explicativo com informações sobre o projeto e sua estrutura.
 
+
 **Decisões de Desenvolvimento**
+
 **HTML e CSS:** 
 Foi utilizada somente a combinação de HTML e CSS, uma vez que o desafio não mencionava o uso de frameworks. 
 Essa abordagem reforça a simplicidade e o entendimento do código.
 
-**Responsividade: **
+**Responsividade:**
 A página foi desenvolvida com técnicas de design responsivo, garantindo que o conteúdo seja 
 exibido adequadamente em diferentes tamanhos de tela, desde dispositivos móveis até desktops.
 
@@ -51,10 +54,12 @@ fluida e intuitiva.
 Baixe ou clone o repositório do projeto.
 Abra o arquivo home.html em qualquer navegador de sua preferência.
 
+
 **Melhorias Futuras**
 -Implementar interatividade com JavaScript para melhorar a experiência do usuário.
 -Adicionar mais elementos gráficos e estilos avançados para enriquecer o design.
 -Expandir o projeto para incluir integração com APIs para carregamento dinâmico de conteúdo.
+
 
 **Conclusão**
 Este projeto demonstra habilidades em HTML e CSS, com foco em design responsivo e boas práticas de desenvolvimento. 
