@@ -1,0 +1,72 @@
+/* Import CSS files in a more organized manner */
+@import url("section_first.css");
+@import url("section_second.css");
+@import url("section_third.css");
+@import url("section_fifth.css");
+
+/* Global styles */
+body {
+  margin: 0;
+  padding: 20px;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline;
+}
+
+/* Typography styles */
+h1,
+h2,
+span {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 200;
+}
+
+span {
+  color: #929090;
+}
+
+/* Main container and footer styles */
+.main_container {
+  background-color: #f8f8f8;
+  width: 100%;
+}
+
+.content_footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+
+.content_footer div {
+  width: 50%;
+  text-align: center;
+  /* Center content within each div */
+}
+
+.content_footer h1 {
+  font-size: 15px;
+  color: #929090;
+  font-weight: 200;
+}
+
+/** Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  /* Adjust layout for smaller screens */
+
+  .content_footer div {
+    width: 70%;
+  }
+
+  .content_footer h1 {
+    font-size: 17px;
+  }
+}

@@ -1,0 +1,17 @@
+/* Content Section Fifth */
+.content_section_fifth {
+    width: 100%;
+    background-color: orangered;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+  }
+  
+  
+  /* Logo Fifth */
+  #logo_fifth {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }

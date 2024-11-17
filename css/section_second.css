@@ -1,0 +1,41 @@
+/* Content Section Second */
+.content_section_second {
+  margin: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+/* Section Second */
+#section_second {
+  width: 80%;
+  max-width: 1000px; /* Adjust this value as needed */
+}
+
+/* Image */
+#img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* Headings and Text */
+.content_section_second h1,
+.content_section_second h2,
+.content_section_second span {
+  margin: 2px;
+  padding: 5px;
+}
+
+/* Headings */
+.content_section_second h1,
+.content_section_second h2 {
+  text-align: left;
+}
+
+/* Lighter Weight for Headings and Text */
+.content_section_second h2,
+.content_section_second span {
+  font-weight: 200;
+}
