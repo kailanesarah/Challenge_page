@@ -34,19 +34,19 @@ A página criada possui o layout inspirado em um blog de notícias e entrevistas
 <h3>Decisões de Desenvolvimento</h3>
 
 <h4>HTML e CSS:</h4>
-<p>Foi utilizada somente a combinação de HTML e CSS, uma vez que o desafio não mencionava o uso de frameworks. 
+<p>Foi utilizada somente a combinação de HTML e CSS, uma vez que o desafio não mencionava o uso de frameworks. <br>
 Essa abordagem reforça a simplicidade e o entendimento do código.</p>
 
 <h4>Responsividade:</h4>
-<p>A página foi desenvolvida com técnicas de design responsivo, garantindo que o conteúdo seja 
+<p>A página foi desenvolvida com técnicas de design responsivo, garantindo que o conteúdo seja <br>
 exibido adequadamente em diferentes tamanhos de tela, desde dispositivos móveis até desktops.</p>
 
 <h4>Semântica e Organização:</h4>
-<p>O código foi estruturado com boas práticas, utilizando tags semânticas do HTML para garantir
+<p>O código foi estruturado com boas práticas, utilizando tags semânticas do HTML para garantir<br>
 acessibilidade e facilitar a manutenção.</p>
 
 <h4>Visual da Página</h4>
-<p>O layout da página reflete um estilo moderno, similar ao de um blog de notícias e entrevistas. 
+<p>O layout da página reflete um estilo moderno, similar ao de um blog de notícias e entrevistas. <br>
 As seções foram organizadas de forma hierárquica para garantir uma experiência de leitura 
 fluida e intuitiva.</p>
 
@@ -62,5 +62,5 @@ fluida e intuitiva.</p>
 
 <br>
 <h4>Conclusão</h4>
-<p>Este projeto demonstra habilidades em HTML e CSS, com foco em design responsivo e boas práticas de desenvolvimento. 
+<p>Este projeto demonstra habilidades em HTML e CSS, com foco em design responsivo e boas práticas de desenvolvimento. <br>
 Foi uma ótima oportunidade de praticar e refinar minhas competências na construção de páginas web.</p>
