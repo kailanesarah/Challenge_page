@@ -7,10 +7,10 @@ A página criada possui o layout inspirado em um blog de notícias e entrevistas
 
 
 <h2>Estrutura do Projeto</h2>
-<h3>1. home.html</h3>
+<h4>1. home.html</h4>
 <li>Arquivo principal contendo a estrutura HTML da página.</li>
 
-<h3>2. css/</h3>
+<h4>2. css/</h4>
 
 <li>main_container.css: Estilo principal da página, incluindo configurações de layout e estrutura.</li>
 
@@ -22,11 +22,11 @@ A página criada possui o layout inspirado em um blog de notícias e entrevistas
 
 <li>section_fifth.css: Estilização da quinta seção.</li>
 
-<h3>3. png/</h3>
+<h4>3. png/</h4>
 
 <li>Contém imagens utilizadas no projeto, organizadas para facilitar manutenção e alteração.</li>
 
-<h3>4. readme.txt</h3>
+<h4>4. readme.txt</h4>
 
 <li>Documento explicativo com informações sobre o projeto e sua estrutura.</li>
 
