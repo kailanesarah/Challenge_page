@@ -62,5 +62,6 @@ Abra o arquivo home.html em qualquer navegador de sua preferência.
 
 
 **Conclusão**
+<br>
 Este projeto demonstra habilidades em HTML e CSS, com foco em design responsivo e boas práticas de desenvolvimento. 
 Foi uma ótima oportunidade de praticar e refinar minhas competências na construção de páginas web.
