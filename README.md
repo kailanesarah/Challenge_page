@@ -8,56 +8,57 @@ A página criada possui o layout inspirado em um blog de notícias e entrevistas
 
 <h1>Estrutura do Projeto</h1>
 <h3>1. home.html</h3>
-<li>Arquivo principal contendo a estrutura HTML da página. ></li
+<li>Arquivo principal contendo a estrutura HTML da página.</li>
 
-**2. css/**
+<h3>2. css/**</h3>
 
------->main_container.css: Estilo principal da página, incluindo configurações de layout e estrutura.
+<li>main_container.css: Estilo principal da página, incluindo configurações de layout e estrutura.</li>
 
------->section_first.css: Estilização da primeira seção.
+<li>section_first.css: Estilização da primeira seção.</li>
 
------->section_second.css: Estilização da segunda seção.
+<li>section_second.css: Estilização da segunda seção.</li>
 
------->section_third.css: Estilização da terceira seção.
+<li>section_third.css: Estilização da terceira seção.</li>
 
------->section_fifth.css: Estilização da quinta seção.
-**3. png/**
+<li>section_fifth.css: Estilização da quinta seção.</li>
 
------->Contém imagens utilizadas no projeto, organizadas para facilitar manutenção e alteração.
+<h3>3. png/</h3>
 
-**4. readme.txt**
+<li>Contém imagens utilizadas no projeto, organizadas para facilitar manutenção e alteração.</li>
 
-------> Documento explicativo com informações sobre o projeto e sua estrutura.
+<h3>4. readme.txt</h3>
+
+<li>Documento explicativo com informações sobre o projeto e sua estrutura.</li>
 
 
-**Decisões de Desenvolvimento**
+<h3>Decisões de Desenvolvimento</h3>
 
-**HTML e CSS:** 
-Foi utilizada somente a combinação de HTML e CSS, uma vez que o desafio não mencionava o uso de frameworks. 
-Essa abordagem reforça a simplicidade e o entendimento do código.
+<h4>HTML e CSS:</h4>
+<p>Foi utilizada somente a combinação de HTML e CSS, uma vez que o desafio não mencionava o uso de frameworks. 
+Essa abordagem reforça a simplicidade e o entendimento do código.</p>
 
-**Responsividade:**
-A página foi desenvolvida com técnicas de design responsivo, garantindo que o conteúdo seja 
-exibido adequadamente em diferentes tamanhos de tela, desde dispositivos móveis até desktops.
+<h4>Responsividade:</h4>
+<p>A página foi desenvolvida com técnicas de design responsivo, garantindo que o conteúdo seja 
+exibido adequadamente em diferentes tamanhos de tela, desde dispositivos móveis até desktops.</p>
 
-**Semântica e Organização:**
-O código foi estruturado com boas práticas, utilizando tags semânticas do HTML para garantir
-acessibilidade e facilitar a manutenção.
+<h4>Semântica e Organização:</h4>
+<p>O código foi estruturado com boas práticas, utilizando tags semânticas do HTML para garantir
+acessibilidade e facilitar a manutenção.</p>
 
-**Visual da Página**
-O layout da página reflete um estilo moderno, similar ao de um blog de notícias e entrevistas. 
+<h4>Visual da Página</h4>
+<p>O layout da página reflete um estilo moderno, similar ao de um blog de notícias e entrevistas. 
 As seções foram organizadas de forma hierárquica para garantir uma experiência de leitura 
-fluida e intuitiva.
+fluida e intuitiva.</p>
 
-**Como Executar**
-Baixe ou clone o repositório do projeto.
-Abra o arquivo home.html em qualquer navegador de sua preferência.
+<h4>Como Executar</h4>
+<p>Baixe ou clone o repositório do projeto.</p>
+<p>Abra o arquivo home.html em qualquer navegador de sua preferência.</p>
 
 
-**Melhorias Futuras**
--Implementar interatividade com JavaScript para melhorar a experiência do usuário.
--Adicionar mais elementos gráficos e estilos avançados para enriquecer o design.
--Expandir o projeto para incluir integração com APIs para carregamento dinâmico de conteúdo.
+<h4>Melhorias Futuras</h4>
+<li>Implementar interatividade com JavaScript para melhorar a experiência do usuário.</li>
+<li>Adicionar mais elementos gráficos e estilos avançados para enriquecer o design.</li>
+<li>Expandir o projeto para incluir integração com APIs para carregamento dinâmico de conteúdo.</li>
 
 
 **Conclusão**
