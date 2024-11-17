@@ -1,16 +1,16 @@
 <h1>README - Desafio Mandarin</h1>
 
-<h2>Descrição do Projeto</h2>
+<h3>Descrição do Projeto</h3>
 <p>Este projeto foi desenvolvido como parte de um desafio técnico para o processo seletivo da empresa Mandarin. <br>
 O objetivo era construir uma página de email com foco em responsividade e design, utilizando apenas HTML e CSS. <br>
 A página criada possui o layout inspirado em um blog de notícias e entrevistas, com organização clara e acessível.</p>
 
 
-<h1>Estrutura do Projeto</h1>
+<h2>Estrutura do Projeto</h2>
 <h3>1. home.html</h3>
 <li>Arquivo principal contendo a estrutura HTML da página.</li>
 
-<h3>2. css/**</h3>
+<h3>2. css/</h3>
 
 <li>main_container.css: Estilo principal da página, incluindo configurações de layout e estrutura.</li>
 
@@ -51,8 +51,8 @@ As seções foram organizadas de forma hierárquica para garantir uma experiênc
 fluida e intuitiva.</p>
 
 <h4>Como Executar</h4>
-<p>Baixe ou clone o repositório do projeto.</p>
-<p>Abra o arquivo home.html em qualquer navegador de sua preferência.</p>
+<li>Baixe ou clone o repositório do projeto.</li>
+<li>Abra o arquivo home.html em qualquer navegador de sua preferência.</li>
 
 
 <h4>Melhorias Futuras</h4>
@@ -60,8 +60,8 @@ fluida e intuitiva.</p>
 <li>Adicionar mais elementos gráficos e estilos avançados para enriquecer o design.</li>
 <li>Expandir o projeto para incluir integração com APIs para carregamento dinâmico de conteúdo.</li>
 
-
-**Conclusão**
 <br>
-Este projeto demonstra habilidades em HTML e CSS, com foco em design responsivo e boas práticas de desenvolvimento. 
-Foi uma ótima oportunidade de praticar e refinar minhas competências na construção de páginas web.
+<h4>Conclusão</h4>
+<br>
+<p>Este projeto demonstra habilidades em HTML e CSS, com foco em design responsivo e boas práticas de desenvolvimento. 
+Foi uma ótima oportunidade de praticar e refinar minhas competências na construção de páginas web.</p>
