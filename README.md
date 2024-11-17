@@ -1,13 +1,13 @@
-**README - Desafio Mandarin**
+<h1>README - Desafio Mandarin</h1>
 
-**Descrição do Projeto**
-Este projeto foi desenvolvido como parte de um desafio técnico para o processo seletivo da empresa Mandarin. 
-O objetivo era construir uma página de email com foco em responsividade e design, utilizando apenas HTML e CSS. 
-A página criada possui o layout inspirado em um blog de notícias e entrevistas, com organização clara e acessível.
+<h2>Descrição do Projeto</h2>
+<p>Este projeto foi desenvolvido como parte de um desafio técnico para o processo seletivo da empresa Mandarin. <br>
+O objetivo era construir uma página de email com foco em responsividade e design, utilizando apenas HTML e CSS. <br>
+A página criada possui o layout inspirado em um blog de notícias e entrevistas, com organização clara e acessível.</p>
 
 
-**Estrutura do Projeto**
-**1. home.html**
+<h1>Estrutura do Projeto</h1>
+<h2>1. home.html</h2>
 
 ------>Arquivo principal contendo a estrutura HTML da página.
 
